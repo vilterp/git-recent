@@ -1,3 +1,4 @@
 #!/bin/bash
 # requires Pick (https://github.com/calleerlandsson/pick): brew install pick
-git reflog | grep 'moving from' | cut -d' ' -f6 | head | pick | xargs git checkout
+git reflog | grep 'moving from' | cut -d' ' -f6 | head -n 20 | pick | xargs git checkout
+
