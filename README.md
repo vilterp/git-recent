@@ -2,7 +2,7 @@
 
 - type `git recent` to choose from your recent branches and check them out by hitting enter.
 
-[![asciicast](https://asciinema.org/a/cyxxhatz66e9yi6uaa06wq1gs.png)](https://asciinema.org/a/cyxxhatz66e9yi6uaa06wq1gs)
+[![asciicast](https://asciinema.org/a/0u72r6fzx5o92xp0j1kazt8px.png)](https://asciinema.org/a/0u72r6fzx5o92xp0j1kazt8px)
 
 - `git pick` to filter through all branches
 
