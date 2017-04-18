@@ -10,7 +10,7 @@
 
 ## Requirements
 
-- [Pick](https://github.com/calleerlandsson/pick): `brew install pick`
+- [Pick](https://github.com/calleerlandsson/pick): `brew install pick` (macOS); `apt-get install pick` (Debian/Ubuntu)
 
 ## Install
 
